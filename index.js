@@ -11,7 +11,7 @@ class BoardMember{
   };
 
   approve(){
-    return
+    return "You can do that!"
   };
 
 }
