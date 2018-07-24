@@ -10,4 +10,8 @@ class BoardMember{
     return "No, I must disagree"
   }
 
+  approve()new Promise(function(resolve, reject) {
+    
+  });
+
 }
